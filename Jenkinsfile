@@ -10,8 +10,7 @@ pipeline {
 
     stage ("Testing") {
       steps {
-        echo 'I am testing if Jenkins got here!'
-      }
+        echo 'I am testing if Jenkins got here!
     }
   }
 }
